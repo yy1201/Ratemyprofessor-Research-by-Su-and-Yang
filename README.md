@@ -1,2 +1,2 @@
 # Ratemyprofessor-Research-by-Su-and-Yang
-Data and code
+The repository collects the data and code used to conduct the research
